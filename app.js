@@ -8,7 +8,7 @@
 const API_URL = 'https://script.google.com/macros/s/AKfycbz1iD18hCu4NySf6-9RsHQV79R2cmHUsw4trWKZHL9B0Vebq2xiw6FcfNiAjOxYYMYV3g/exec';
 
 /* Bật mock khi chưa có API / lỗi mạng */
-const USE_MOCK = true;
+const USE_MOCK = false;
 
 const F2 = [
   { k: 'Phòng 201-202', a: 'a201', l: 'P.201 - 202' },
